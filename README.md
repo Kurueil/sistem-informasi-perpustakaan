@@ -1,6 +1,6 @@
 # Sistem Informasi Perpustakaan
 
-Repository ini dipakai untuk menyimpan dokumentasi Sistem Informasi Perpustakaan, dikerjakan untuk Tugas 3 mata kuliah Sistem Informasi (Kelompok 4, kelas 1C TRPL, Politeknik Negeri Bali).
+Repository ini dipakai untuk menyimpan dokumentasi Sistem Informasi
 
 ## Anggota
 

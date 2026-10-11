@@ -13,4 +13,3 @@ Repository ini dipakai untuk menyimpan dokumentasi Sistem Informasi
 
 - `01-basis-data-erd`: rancangan basis data dan ERD (Tugas 1)
 - `02-jaringan-komunikasi-data`: kebutuhan jaringan dan alur komunikasi data (Tugas 2)
-- `03-analisis-cloud`: analisis kebutuhan cloud computing (Tugas 3)

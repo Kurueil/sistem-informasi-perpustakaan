@@ -5,7 +5,7 @@ Repository ini dipakai untuk menyimpan dokumentasi Sistem Informasi
 ## Anggota
 
 - I Kadek Yoga Aditya
-- Diego Rezar Aarudin
+- Diego Rezar Aaruddin
 - I Gusti Bagus Mega Widiarta Pradana Dwiarka
 - I Gede Angga Pradita
 
